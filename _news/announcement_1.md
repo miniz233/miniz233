@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-10-27 12:00:00+0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper **Behave Your Motion** was accepted to **ACM MM 2025**.

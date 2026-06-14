@@ -7,13 +7,12 @@ first_name: Zhimin
 middle_name: 
 last_name: Zhang
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to reach out via email for research collaboration or internship opportunities.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-Zhimin Zhang is a Ph.D. student at Wangxuan Institute of Computer Technology, Peking University. My research interest is 3D/4D generation, video generation, digital humans, world models and embodied AI.
+  Zhimin Zhang is a Ph.D. student at Wangxuan Institute of Computer Technology, Peking University. His research focuses on 3D/4D generation, video generation, motion generation, world models, and embodied AI.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: 3d generation, 4d generation, video generation, world models, motion generation, multimodal learning, embodied ai # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -122,8 +121,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: # blog_name will be displayed in your blog page
+blog_description:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
