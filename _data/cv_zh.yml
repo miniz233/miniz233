@@ -1,0 +1,162 @@
+cv:
+  name: 张智敏
+  label: 计算机应用技术博士研究生
+  email: zm_zhang@stu.pku.edu.cn
+  location: 北京，中国
+  image: ""
+  summary: >
+    北京大学王选计算机研究所博士研究生，研究方向包括三维/四维生成、视频生成、
+    运动生成、数字人与世界模型。
+
+  social_networks:
+    - network: GitHub
+      username: miniz233
+    - network: Google Scholar
+      username: Evt0ybcAAAAJ
+
+  sections:
+    Education:
+      - institution: 北京大学
+        location: 北京，中国
+        area: 计算机应用技术
+        studyType: 博士
+        start_date: 2022-09
+        end_date: 至今
+        highlights:
+          - 王选计算机研究所
+          - 直博
+
+      - institution: 武汉大学
+        location: 武汉，中国
+        area: 软件工程
+        studyType: 学士
+        start_date: 2018-09
+        end_date: 2022-07
+        score: "GPA 3.88/4.0"
+        highlights:
+          - 计算机学院
+          - 连续两个学年专业排名前 1%
+
+    Experience:
+      - company: 快手可灵 AI
+        position: 视频生成算法实习生
+        location: 北京，中国
+        start_date: 2025-12
+        end_date: 至今
+        highlights:
+          - 通用物体（非人体）视频动作迁移，探索显式与隐式运动表征。
+          - 视频相机运镜克隆，参与 OmniDirector 相关实验与评估。
+
+      - company: 北京大学
+        position: 多模态解耦的跨物种动作生成研究
+        location: 北京，中国
+        start_date: 2025-07
+        end_date: 2025-11
+        highlights:
+          - 一作投稿 IEEE TMM。
+          - 提出双流解耦框架，分离可迁移动作语义与物种特有习性。
+
+      - company: 北京大学
+        position: 习性保持的跨类别动物动作迁移研究
+        location: 北京，中国
+        start_date: 2024-06
+        end_date: 2025-02
+        highlights:
+          - 一作论文录用至 ACM MM 2025。
+          - 构建多类别动物动作数据集与基于 VQ-VAE 的习性感知迁移框架。
+
+      - company: 北京大学
+        position: 点云分布外泛化的不变特征学习
+        location: 北京，中国
+        start_date: 2022-09
+        end_date: 2023-06
+        highlights:
+          - 一作论文发表于 ICASSP 2024。
+          - 设计双分支网络与可学习锚点机制，提升三维领域泛化能力。
+
+    Awards:
+      - title: 国家奖学金
+        date: "2020-2021；2021-2022"
+        awarder: 中华人民共和国教育部
+        summary: 共 2 次（2/208）
+
+      - title: 武汉大学甲等奖学金
+        date: "2019-2020；2020-2021；2021-2022"
+        awarder: 武汉大学
+        summary: Top 5%，共 3 次
+
+      - title: 武汉大学三好学生
+        date: "2019-2020；2020-2021；2021-2022"
+        awarder: 武汉大学
+        summary: Top 10%，共 3 次
+
+      - title: 武汉大学优秀毕业生
+        date: 2022
+        awarder: 武汉大学
+        summary: Top 10%
+
+      - title: 北京大学优秀科研奖
+        date: "2023-2024"
+        awarder: 北京大学
+
+    Publications:
+      - title: "Behave Your Motion: Habit-preserved Cross-category Animal Motion Transfer"
+        authors:
+          - Zhimin Zhang
+          - Bi'an Du
+          - Caoyuan Ma
+          - Zheng Wang
+          - Wei Hu
+        publisher: ACM MM 2025
+        releaseDate: 2025-10-27
+        summary: 跨类别动物动作迁移中的习性保持与 zero-shot 泛化。
+
+      - title: "RangeLDM: Fast Realistic LiDAR Point Cloud Generation"
+        authors:
+          - Qianjiang Hu
+          - Zhimin Zhang
+          - Wei Hu
+        publisher: ECCV 2024
+        releaseDate: 2024
+        summary: 快速、真实的 LiDAR 点云生成。
+
+      - title: "InvariantOODG: Learning Invariant Features of Point Clouds for Out-of-Distribution Generalization"
+        authors:
+          - Zhimin Zhang
+          - Xiang Gao
+          - Wei Hu
+        publisher: ICASSP 2024
+        releaseDate: 2024-04-14
+        url: https://arxiv.org/abs/2401.03765
+        summary: 面向三维点云分布外泛化的不变特征学习。
+
+      - title: "OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data"
+        authors:
+          - Jiwen Liu
+          - Shujuan Li
+          - Zhixue Fang
+          - Xiaohan Li
+          - Yan Zhou
+          - Zijie Meng
+          - Zhimin Zhang
+          - Yawen Luo
+          - Guoxin Zhang
+          - Yu-Shen Liu
+          - Pengfei Wan
+        publisher: arXiv
+        releaseDate: 2026-06
+        url: https://arxiv.org/abs/2606.13432
+        summary: 无需跨配对数据的通用多镜头相机运镜克隆。
+
+    Skills:
+      - name: 研究方向
+        level: ""
+        icon: fa-solid fa-flask
+        keywords: "三维/四维生成，视频生成，运动生成，世界模型，多模态学习，具身智能，点云学习"
+
+    Languages:
+      - name: 中文
+        summary: 母语
+
+      - name: 英语
+        summary: 工作语言熟练
