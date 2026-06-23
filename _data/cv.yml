@@ -40,7 +40,7 @@ cv:
 
     Experience:
       - company: Kuaishou Kling AI
-        position: Video Generation Algorithm Intern
+        position: Video Model Algorithm Intern
         location: Beijing, China
         start_date: 2025-12
         end_date: present
@@ -77,17 +77,17 @@ cv:
 
     Awards:
       - title: National Scholarship
-        date: ""
+        date: "2021-2022; 2020-2021"
         awarder: Ministry of Education of China
         summary: Awarded twice (2/208)
 
       - title: First-class Scholarship, Wuhan University
-        date: ""
+        date: "2019-2020; 2020-2021; 2021-2022"
         awarder: Wuhan University
         summary: Top 5%, awarded three times
 
       - title: Outstanding Student, Wuhan University
-        date: ""
+        date: "2019-2020; 2020-2021; 2021-2022"
         awarder: Wuhan University
         summary: Top 10%, awarded three times
 
@@ -97,7 +97,7 @@ cv:
         summary: Top 10%
 
       - title: Outstanding Research Award, Peking University
-        date: ""
+        date: "2023-2024"
         awarder: Peking University
 
     Publications:
@@ -144,8 +144,8 @@ cv:
           - Jiwen Liu
           - Shujuan Li
         publisher: arXiv
-        releaseDate: 2025-06-17
-        url: https://arxiv.org/abs/2506.14229
+        releaseDate: 2026-06
+        url: https://arxiv.org/abs/2606.13432
         summary: General multi-shot camera cloning for video generation without cross-paired training data.
 
     Skills:

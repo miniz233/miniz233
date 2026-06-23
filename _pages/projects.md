@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Selected research and internship projects.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [research, internship]
 horizontal: false

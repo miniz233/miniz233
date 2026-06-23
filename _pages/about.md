@@ -6,6 +6,7 @@ subtitle: Ph.D. student at <a href='https://www.icst.pku.edu.cn/'>Wangxuan Insti
 
 profile:
   align: right
+  image: prof1_1.jpg
   image_circular: false
   more_info: >
     <p>Wangxuan Institute of Computer Technology</p>
